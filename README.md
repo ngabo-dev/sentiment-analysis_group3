@@ -35,8 +35,10 @@ To run this project, you will need:
 
 ### Prerequisites
    Python 3.8+
+   
    Access to a Google Colab environment is recommended.
-   Python libraries installed(matplotlib, Tensorflow etc)
+   
+   Python libraries installed(matplotlib, Tensorflow etc).
 
 ### Dependencies
 Install the required Python libraries using `pip`:
