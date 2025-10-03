@@ -3,7 +3,7 @@
 ![What-is-Deep-Learning (1)](https://github.com/user-attachments/assets/42beb733-2243-4da7-9c2d-d0ec9ec41c2c)
 
 ### Project Overview
-This project examines and compares the performance of various machine learning models for sentiment analysis on publicly available text datasets, such as the IMDb movie reviews dataset. The objective is to evaluate one traditional machine learning approach (SVM or Logistic Regression) against two deep learning architectures (RNN or LSTM), highlighting their respective strengths and weaknesses.
+This project examines and compares the performance of various machine learning models for sentiment analysis on our dataset. The objective is to evaluate one traditional machine learning approach (SVM and Logistic Regression) against two deep learning architectures (RNN and LSTM), highlighting their respective strengths and weaknesses.
 
 
 **Key Findings:**
@@ -22,7 +22,7 @@ The repository is organized as follows:
  
  **`processed_data/`**: Stores the output of the data preprocessing steps, including TF-IDF features and padded sequences.
  
- **`models/`**: Stores the trained machine learning and deep learning models.
+ **` models/`**: Stores the trained machine learning and deep learning models.
  
  **`Model_Comparison_Charts.ipynb`**: Notebook for comparing and visualizing model performance.
  
@@ -36,6 +36,7 @@ To run this project, you will need:
 ### Prerequisites
    Python 3.8+
    Access to a Google Colab environment is recommended.
+   Python libraries installed(matplotlib, Tensorflow etc)
 
 ### Dependencies
 Install the required Python libraries using `pip`:
