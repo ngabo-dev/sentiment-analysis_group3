@@ -17,11 +17,17 @@ This project examines and compares the performance of various machine learning m
 
 ### Project Structure
 The repository is organized as follows:
+
  **`notebooks/`**: Contains the Jupyter/Colab notebooks for data exploration, preprocessing, model training, and comparison.
+ 
  **`processed_data/`**: Stores the output of the data preprocessing steps, including TF-IDF features and padded sequences.
+ 
  **`models/`**: Stores the trained machine learning and deep learning models.
+ 
  **`Model_Comparison_Charts.ipynb`**: Notebook for comparing and visualizing model performance.
+ 
  **`README.md`**: This file.
+ 
  **`requirements.txt`**: Lists all project dependencies.
 
 ## Setup and Installation
