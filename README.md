@@ -11,7 +11,7 @@ This project examines and compares the performance of various machine learning m
   
 **Group Members**
 * Branis Sumba
-* NJean Pierre Niyongabo
+* Jean Pierre Niyongabo
 * Tamanda kaunda
 * Diana Ruzindana
 
@@ -58,8 +58,10 @@ The analysis reveals significant differences in performance, demonstrating the s
 The comparison provides insight into the trade-offs between model complexity, computational cost, and predictive accuracy for this specific sentiment analysis task. 
 
 ### References
- **GeeksforGeeks Article**: "Introduction to Deep Learning" [https://www.geeksforgeeks.org/deep-learning/introduction-deep-learning/]
-**Dataset**: `Reviews.csv` " Kaggle Sentiment Analysis" [https://github.com/ngabo-dev/sentiment-analysis_group3/blob/main/content/Reviews.csv]
+**GeeksforGeeks Article**: "Introduction to Deep Learning" [https://www.geeksforgeeks.org/
+ deep-learning/introduction-deep-learning/]
+**Dataset**: " Kaggle Sentiment Analysis" [https://github.com/ngabo-dev/sentiment-analysis_group3
+/blob/main/content/Reviews.csv]
 
 ### License
 This project is licensed under the MIT License. 
