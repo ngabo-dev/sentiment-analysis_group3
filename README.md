@@ -60,7 +60,8 @@ Run the Model_Comparison_Charts.ipynb notebook to see the comparison of all mode
 ***Model Performance Comparison***
 F1 score & Accuracy metrics of Deep learning vs Traditional Machine Learning Models
 
-<img width="1366" height="768" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/bfbaec0c-fc3d-4dde-a0e8-30579238e4c7" />
+<img width="1366" height="688" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/7c811a9f-0e12-4641-a26d-8a5af65a4171" />
+
 
 
 
