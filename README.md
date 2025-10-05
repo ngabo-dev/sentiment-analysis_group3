@@ -59,18 +59,22 @@ Run the Model_Comparison_Charts.ipynb notebook to see the comparison of all mode
 ### Results and Discussion
 ***Model Performance Comparison***
 F1 score & Accuracy metrics of Deep learning vs Traditional Machine Learning Models
-<img width="1366" height="768" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/1d47648e-c471-41e1-b8cf-aea8ad63a584" />
+
+<img width="1366" height="768" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/bfbaec0c-fc3d-4dde-a0e8-30579238e4c7" />
+
 
 
 ### Discussion
 The analysis reveals significant differences in performance, demonstrating the strengths and weaknesses of each modeling approach.
 The comparison provides insight into the trade-offs between model complexity, computational cost, and predictive accuracy for this specific sentiment analysis task. 
-
+Traditional Machine Learning models like Linear Regression and SVM seemed to have perfomed better. 
+ 
 ### References
 **GeeksforGeeks Article**: "Introduction to Deep Learning" [https://www.geeksforgeeks.org/
  deep-learning/introduction-deep-learning/]
-**Dataset**: " Kaggle Sentiment Analysis" [https://github.com/ngabo-dev/sentiment-analysis_group3
-/blob/main/content/Reviews.csv]
+
+ 
+**Dataset**: " Amazon Product Data Review " https://nijianmo.github.io/amazon/index.html.
 
 ### License
 This project is licensed under the MIT License. 
